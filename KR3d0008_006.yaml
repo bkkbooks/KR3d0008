@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3d0008/krp/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3d0008_WYG_006-1a, image: WYG0731/WYG0731-0972c.png}
+body:
+  text: 泰西水法卷六明熊三拔撰泰西水法卷六
+  hash: sha256:39e320ae9eb728f61d0397ace03ebb02a2fbfa9fc8202216ad2ee639102c19b8
+metadata:
+  title: 泰西水法
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:03:43.212277'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR3d0008/KR3d0008_006.txt
+hash: sha256:db2dd958e346eeebc742b55922f41475e7d0a4ce15da413981336368a097386d
