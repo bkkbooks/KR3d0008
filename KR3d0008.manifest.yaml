@@ -20,20 +20,21 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3d0008_000.yaml, hash: 'sha256:0776b43931e46dc451056ccbc0bc8aa31776238d0bfd137362900aa5280aa175'}
-  - {seq: 1, filename: KR3d0008_001.yaml, hash: 'sha256:5c0ee99111e41a3843304589baeba1479a0164b85b48850efb5f2f2b73c15f6b'}
-  - {seq: 2, filename: KR3d0008_002.yaml, hash: 'sha256:6de6aeaeb5a5dc22f445f8e68af989e67b86812bf50de7887a150ce65a49ad8d'}
-  - {seq: 3, filename: KR3d0008_003.yaml, hash: 'sha256:35deddc0fac84235cbc22f8262e0777536ef48e7ca5884988a512280b81c3e88'}
-  - {seq: 4, filename: KR3d0008_004.yaml, hash: 'sha256:97faff0090f58a0e43c930dd594f14b81df2090cf4dfe4b2df9f750d84e57bd0'}
-  - {seq: 5, filename: KR3d0008_005.yaml, hash: 'sha256:d406fc08e5718e563d2793432e0e15f78af3f90f5db5f739de97c91df1a5316c'}
+  - {seq: 0, filename: KR3d0008_000.yaml, hash: 'sha256:8d54ed99e9463720cf2e3dfff65d4ec41dc689f7819dd8c4c38cc48282d2163b'}
+  - {seq: 1, filename: KR3d0008_001.yaml, hash: 'sha256:fb68cd32449dc69aa845603f79c1d51ba719cb1a841cfe55fb9164868dde5ee6'}
+  - {seq: 2, filename: KR3d0008_002.yaml, hash: 'sha256:018a8c3f3e8790d566e9bbe88141d066590eee8da2daa159b8c6ee4221fa159f'}
+  - {seq: 3, filename: KR3d0008_003.yaml, hash: 'sha256:786d935a0ac2666ef4009d2feac5dd1be8482031b4c0b505556515af5ebc2ed4'}
+  - {seq: 4, filename: KR3d0008_004.yaml, hash: 'sha256:3bd349bb2672120150e448a867074789f3dc394ed558d8e5a41b0f75245f1cde'}
+  - {seq: 5, filename: KR3d0008_005.yaml, hash: 'sha256:7a9f788300da058b076a4b7f1ea65da65b185f13aed5ea443120a6f4e9ffdfaa'}
   - {seq: 6, filename: KR3d0008_006.yaml, hash: 'sha256:db2dd958e346eeebc742b55922f41475e7d0a4ce15da413981336368a097386d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3d0008_000.markers.yaml, hash: 'sha256:dc69761bda3900077bdf5e6a0a23be313ddbb2b6f63bfb15168bf7a485d4a103'}
-  - {seq: 1, role: markers, filename: assets/KR3d0008_001.markers.yaml, hash: 'sha256:904f97a91c2fd454570f97b0dd4cb286ea3f256aca7fc829bbd7b0359a03454f'}
-  - {seq: 2, role: markers, filename: assets/KR3d0008_002.markers.yaml, hash: 'sha256:92dda9e3c128086965bfe5f68030f049696db8ad30a9bba920c4857fbe7bced1'}
-  - {seq: 3, role: markers, filename: assets/KR3d0008_003.markers.yaml, hash: 'sha256:1282421e0b6bde4099ac66b420cb55b176d7ddbae3a67f41d608d0ac41e757f5'}
-  - {seq: 4, role: markers, filename: assets/KR3d0008_004.markers.yaml, hash: 'sha256:e215898ba9ce0e9541918eed5b299cad28374b76e24c5c017573a018e00bef48'}
-  - {seq: 5, role: markers, filename: assets/KR3d0008_005.markers.yaml, hash: 'sha256:a7fa8584f0b640412251d3a35c5216a0a85288f40bfef889463d529d474368b2'}
+  - {seq: 0, role: markers, filename: assets/KR3d0008_000.markers.yaml, hash: 'sha256:4ae4334c69bf622a40995d532b3b81667e25ec3837b057422c4ca40e41ce8a3e'}
+  - {seq: 1, role: markers, filename: assets/KR3d0008_001.markers.yaml, hash: 'sha256:5f91f1ef30aa23a98fc02f21549d7ac5e67acdb5943562ad09a7ad4558fe7cbc'}
+  - {seq: 2, role: markers, filename: assets/KR3d0008_002.markers.yaml, hash: 'sha256:4c8c033907c72809db6e83387e0a6144947667f80780c76285a92e080ffdaad6'}
+  - {seq: 3, role: markers, filename: assets/KR3d0008_003.markers.yaml, hash: 'sha256:c540d9fda892df9114cc32b7e84dde30a4ff8614c6f6f73cf5a802e255b814d6'}
+  - {seq: 4, role: markers, filename: assets/KR3d0008_004.markers.yaml, hash: 'sha256:e435a077152133d0f7aba05df933ca9c430b7bf37aa1aae8477222537a45f6b5'}
+  - {seq: 5, role: markers, filename: assets/KR3d0008_005.markers.yaml, hash: 'sha256:7f39bb889d7fd9011b2d30338df2d0fbbafae64cec3247802947e9c40fb61013'}
+  - {seq: 6, role: markers, filename: assets/KR3d0008_006.markers.yaml, hash: 'sha256:83a525f100dc65d2735444f9b7aa31132297b7b9ad3b38a294d3fa285e607b81'}
 table_of_contents:
 - ref:
     seq: 0
@@ -105,7 +106,4 @@ table_of_contents:
   label: 卷六
   type: section
   level: 1
-hash: sha256:b061fd471cdb677919021e30e0dfb4ab54c592b3fcd9a0a7b6d99eb6800068ec
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:524f7a148ed65333b5728ee311f7157d45c8bd35da1c4dcd76f08796e464e92a
